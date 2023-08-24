@@ -6,6 +6,18 @@
 .b1{
     border-top-left-radius: 35px;
     border-bottom-right-radius: 35px;
+    background-color: blue;
+}
+.hi{
+    font-weight: 600;
+}
+.hi1{
+    font-family: 'Kaushan Script', cursive;
+    
+    font-size: xx-large;
+    font-weight: 600;
+}
+
 }
 .c1{
   border-radius: 35px;
